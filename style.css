@@ -39,6 +39,7 @@ body{
 
 .container-text p{
     color: var(--text-slwhite);
+    padding: auto;
 }
 
 .container-text span{
